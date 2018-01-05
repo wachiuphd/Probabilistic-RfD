@@ -4,7 +4,7 @@ Data and code for probabilistic RfD calculations conducted by Chiu et al. (2018)
 ## Code
 HDMI_functions.R: R functions to do probabilistic RfD calculations
 
-HDMI_calculations.R: R script to for implementing automated probabilistic RfD workflow
+HDMI_calculations.R: R script for implementing automated probabilistic RfD workflow
 
 ## Inputs
 RfD_InputData.csv: Input CSV file of curated RfD database, used by HDMI_calculations.R
